@@ -3,7 +3,7 @@
 <br>
 功能介紹：將自己的姓名輸入GPA Calculator，就能夠創建屬於自己的GPA計算器。此計算器有輸入、列出、存取、讀取功能，能夠將資料儲存後在日後累計使用，輕鬆計算大學四年的GPA。<br>
 ☞Login登入:將自己的名字輸入後，系統就會自動判斷你是否曾經有登入過<br>
-![image](https://user-images.githubusercontent.com/86187917/133889287-101c110d-9ac6-470d-a0b6-2f5c124072ca.png)<br>
+![image](https://user-images.githubusercontent.com/86187917/133889608-9baf0f13-4d4d-41b6-a86b-5936809b7620.png)<br>
  第二次登入歡迎的說詞從”Welcome first time user Yvonne!”變成”Welcome Yvonne”。<br>
  ![image](https://user-images.githubusercontent.com/86187917/133889464-14eb08b5-e771-4578-8e6e-11caa7ac8d0e.png)<br>
 <br>
