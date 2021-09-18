@@ -5,9 +5,7 @@
 ![image](https://user-images.githubusercontent.com/86187917/133889772-6e9cac3a-1cf9-4f3a-ac79-348a9f881827.png)
 
 <br>
-☞Login登入:將自己的名字輸入後，系統就會自動判斷你是否曾經有登入過<br>
-<br>
- 第二次登入歡迎的說詞從”Welcome first time user Yvonne!”變成”Welcome Yvonne”。<br>
+☞Login登入:將自己的名字輸入後，系統就會自動判斷你是否曾經有登入過。第二次登入歡迎的說詞從”Welcome first time user Yvonne!”變成”Welcome Yvonne”。<br>
 
 <br>
 ☞Input data輸入資料:輸入選項 i 後，學生就可以根據提示 Course Name, Course Credit, Course Score輸入相對應的資料，一次只能輸入一組，此資料將會暫存在電腦內。<br>
